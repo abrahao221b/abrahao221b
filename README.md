@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @abrahao221b
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me abrahao221b@gmail.com
+- 👋 Hi, I’m @abrahao221b or Abrahão Leandro 
+- 🌱 I'm a computer science student at UFAPE
+- 📫 How to reach me abrahao221b@gmail.com 
 
 <!---
 abrahao221b/abrahao221b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
