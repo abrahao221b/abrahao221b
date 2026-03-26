@@ -1,5 +1,5 @@
 - 👦🏻 Hi, I’m @abrahao221b or Abrahão Leandro 
-- 💻 I'm a computer science student at UFAPE
+- 💻 I have a Associate's Degree in Mobile Development
 - 📫 How to reach me abrahao221b@gmail.com
 - 🔗https://www.linkedin.com/in/abrahão-leandro-de-lima-paulino-b75a88191
 
